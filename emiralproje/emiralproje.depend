@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1729967727 source:c:\code\emiralproje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"raylib.h"
+	"include/curl/curl.h"
+
+1729426496 c:\code\emiralproje\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<sys/param.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"mprintf.h"
+	"typecheck-gcc.h"
+
+1729426496 c:\code\emiralproje\include\curl\curlver.h
+
+1729426496 c:\code\emiralproje\include\curl\system.h
+	<ConditionalMacros.h>
+	<inttypes.h>
+	<inttypes.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1729426496 c:\code\emiralproje\include\curl\easy.h
+
+1729426496 c:\code\emiralproje\include\curl\multi.h
+	"curl.h"
+
+1729426496 c:\code\emiralproje\include\curl\urlapi.h
+	"curl.h"
+
+1729426496 c:\code\emiralproje\include\curl\options.h
+
+1729426496 c:\code\emiralproje\include\curl\header.h
+
+1729426496 c:\code\emiralproje\include\curl\websockets.h
+
+1729426496 c:\code\emiralproje\include\curl\mprintf.h
+	<stdarg.h>
+	<stdio.h>
+	"curl.h"
+
+1729426496 c:\code\emiralproje\include\curl\typecheck-gcc.h
+

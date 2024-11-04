@@ -1,0 +1,417 @@
+
+Tur 1:
+Insan irki Ork irkina 130000.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 1000
+Sagligi=72
+Mizrakcilarin 
+Sayisi= 1000
+Sagligi=62
+Trollerin 
+Sayisi= 1000
+Sagligi=172
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=102
+
+
+Tur 2:
+Ork irki Insan irkina 64999.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 1000
+Sagligi=81
+Okcularin 
+Sayisi= 1000
+Sagligi=70
+Suvarilerin 
+Sayisi= 1000
+Sagligi=106
+Kusatma makinelerinin 
+Sayisi= 1000
+Sagligi=126
+
+
+Tur 3:
+Insan irki Ork irkina 130000.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 1000
+Sagligi=44
+Mizrakcilarin 
+Sayisi= 1000
+Sagligi=34
+Trollerin 
+Sayisi= 1000
+Sagligi=144
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=74
+
+
+Tur 4:
+Ork irki Insan irkina 109999.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 1000
+Sagligi=49
+Okcularin 
+Sayisi= 1000
+Sagligi=54
+Suvarilerin 
+Sayisi= 1000
+Sagligi=82
+Kusatma makinelerinin 
+Sayisi= 1000
+Sagligi=86
+
+
+Tur 5:
+Insan irki Ork irkina 130000.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 1000
+Sagligi=16
+Mizrakcilarin 
+Sayisi= 1000
+Sagligi=6
+Trollerin 
+Sayisi= 1000
+Sagligi=116
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=46
+
+
+Tur 6:
+Ork irki Insan irkina 64999.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 1000
+Sagligi=30
+Okcularin 
+Sayisi= 1000
+Sagligi=44
+Suvarilerin 
+Sayisi= 1000
+Sagligi=68
+Kusatma makinelerinin 
+Sayisi= 1000
+Sagligi=62
+
+
+Tur 7:
+Insan irki Ork irkina 130000.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 0
+Sagligi=0
+Mizrakcilarin 
+Sayisi= 0
+Sagligi=0
+Trollerin 
+Sayisi= 1000
+Sagligi=88
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=18
+
+
+Tur 8:
+Ork irki Insan irkina 12499.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 1000
+Sagligi=26
+Okcularin 
+Sayisi= 1000
+Sagligi=42
+Suvarilerin 
+Sayisi= 1000
+Sagligi=65
+Kusatma makinelerinin 
+Sayisi= 1000
+Sagligi=57
+
+
+Tur 9:
+Insan irki Ork irkina 175000.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 0
+Sagligi=0
+Mizrakcilarin 
+Sayisi= 0
+Sagligi=0
+Trollerin 
+Sayisi= 1000
+Sagligi=88
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=18
+
+
+Tur 10:
+Ork irki Insan irkina 20000.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 1000
+Sagligi=20
+Okcularin 
+Sayisi= 1000
+Sagligi=39
+Suvarilerin 
+Sayisi= 1000
+Sagligi=60
+Kusatma makinelerinin 
+Sayisi= 1000
+Sagligi=49
+
+
+Tur 11:
+Insan irki Ork irkina 175000.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 0
+Sagligi=0
+Mizrakcilarin 
+Sayisi= 0
+Sagligi=0
+Trollerin 
+Sayisi= 1000
+Sagligi=88
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=18
+
+
+Tur 12:
+Ork irki Insan irkina 12499.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 1000
+Sagligi=16
+Okcularin 
+Sayisi= 1000
+Sagligi=37
+Suvarilerin 
+Sayisi= 1000
+Sagligi=57
+Kusatma makinelerinin 
+Sayisi= 1000
+Sagligi=44
+
+
+Tur 13:
+Insan irki Ork irkina 175000.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 0
+Sagligi=0
+Mizrakcilarin 
+Sayisi= 0
+Sagligi=0
+Trollerin 
+Sayisi= 1000
+Sagligi=88
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=18
+
+
+Tur 14:
+Ork irki Insan irkina 0.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 1000
+Sagligi=16
+Okcularin 
+Sayisi= 1000
+Sagligi=37
+Suvarilerin 
+Sayisi= 1000
+Sagligi=57
+Kusatma makinelerinin 
+Sayisi= 1000
+Sagligi=44
+
+
+Tur 15:
+Insan irki Ork irkina 175000.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 0
+Sagligi=0
+Mizrakcilarin 
+Sayisi= 0
+Sagligi=0
+Trollerin 
+Sayisi= 1000
+Sagligi=88
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=18
+
+
+Tur 16:
+Ork irki Insan irkina 12499.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 1000
+Sagligi=12
+Okcularin 
+Sayisi= 1000
+Sagligi=35
+Suvarilerin 
+Sayisi= 1000
+Sagligi=54
+Kusatma makinelerinin 
+Sayisi= 1000
+Sagligi=39
+
+
+Tur 17:
+Insan irki Ork irkina 175000.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 0
+Sagligi=0
+Mizrakcilarin 
+Sayisi= 0
+Sagligi=0
+Trollerin 
+Sayisi= 1000
+Sagligi=88
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=18
+
+
+Tur 18:
+Ork irki Insan irkina 0.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 1000
+Sagligi=12
+Okcularin 
+Sayisi= 1000
+Sagligi=35
+Suvarilerin 
+Sayisi= 1000
+Sagligi=54
+Kusatma makinelerinin 
+Sayisi= 1000
+Sagligi=39
+
+
+Tur 19:
+Insan irki Ork irkina 175000.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 0
+Sagligi=0
+Mizrakcilarin 
+Sayisi= 0
+Sagligi=0
+Trollerin 
+Sayisi= 1000
+Sagligi=88
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=18
+
+
+Tur 20:
+Ork irki Insan irkina 47499.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 0
+Sagligi=0
+Okcularin 
+Sayisi= 1000
+Sagligi=28
+Suvarilerin 
+Sayisi= 1000
+Sagligi=43
+Kusatma makinelerinin 
+Sayisi= 1000
+Sagligi=22
+
+
+Tur 21:
+Insan irki Ork irkina 145000.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 0
+Sagligi=0
+Mizrakcilarin 
+Sayisi= 0
+Sagligi=0
+Trollerin 
+Sayisi= 1000
+Sagligi=88
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=18
+
+
+Tur 22:
+Ork irki Insan irkina 24999.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 0
+Sagligi=0
+Okcularin 
+Sayisi= 0
+Sagligi=0
+Suvarilerin 
+Sayisi= 1000
+Sagligi=35
+Kusatma makinelerinin 
+Sayisi= 1000
+Sagligi=9
+
+
+Tur 23:
+Insan irki Ork irkina 104999.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 0
+Sagligi=0
+Mizrakcilarin 
+Sayisi= 0
+Sagligi=0
+Trollerin 
+Sayisi= 1000
+Sagligi=88
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=18
+
+
+Tur 24:
+Ork irki Insan irkina 72500.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 0
+Sagligi=0
+Okcularin 
+Sayisi= 0
+Sagligi=0
+Suvarilerin 
+Sayisi= 1000
+Sagligi=7
+Kusatma makinelerinin 
+Sayisi= 0
+Sagligi=0
+
+
+Tur 25:
+Insan irki Ork irkina 0.000000 hasar verdi.
+Ork dovusculerinin 
+Sayisi= 0
+Sagligi=0
+Mizrakcilarin 
+Sayisi= 0
+Sagligi=0
+Trollerin 
+Sayisi= 1000
+Sagligi=88
+Varg binicilerinin 
+Sayisi= 1000
+Sagligi=18
+
+
+Tur 26:
+Ork irki Insan irkina 95000.000000 hasar verdi.
+Piyadelerin 
+Sayisi= 0
+Sagligi=0
+Okcularin 
+Sayisi= 0
+Sagligi=0
+Suvarilerin 
+Sayisi= 0
+Sagligi=0
+Kusatma makinelerinin 
+Sayisi= 0
+Sagligi=0
+
+Insan irki yok oldu! Ork legi kazandi!
